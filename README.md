@@ -179,7 +179,7 @@ END:
 ## 👥 Team Details
 
 | Field | Details |
-|-------|---------|
+|Dheeksha PM|RA2311026050055|
 | Subject | Compiler Design |
 | Department | CSE |
 | Faculty | Dr. Gunasundari C, Asst. Prof |
@@ -187,12 +187,3 @@ END:
 
 ---
 
-## 📊 Marks Breakdown
-
-| Criteria | Marks |
-|----------|-------|
-| Functionality | 2 |
-| Implementation | 1 |
-| Code Quality | 1 |
-| Documentation | 1 |
-| **Total** | **5** |
